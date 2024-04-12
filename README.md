@@ -1,6 +1,6 @@
 <!-- DO NOT CHANGE THIS -->
 <p align="center">
-<img src="https://raw.github.com/eldritch-theme/eldritch/master/assets/logo/logo.png" width=100>
+<img src="https://raw.github.com/eldritch-theme/eldritch/master/assets/logo/logo.png" width=150>
 </p>
 <p>
 Eldritch is a community-driven dark theme inspired by Lovecraftian horror. With tones from the dark abyss and an emphasis on green and blue, it caters to those who appreciate the darker side of life.
@@ -19,7 +19,7 @@ Main Theme repo can be found [here](https://github.com/eldritch-theme/eldritch)
 4. Copy the contents of `eldritch-scheme.json` into the opened config file under `schemes`.
 Example:
 ```json
-"schemes": 
+"schemes":
 [
   {
     .. other colors and schemes
@@ -32,7 +32,7 @@ Example:
 5. Copy the contents of `eltritch-scheme.json` into the config file under `themes`.
 Example:
 ```json
-"themes": 
+"themes":
 [
   {
     .. other themes
