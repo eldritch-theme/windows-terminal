@@ -29,7 +29,7 @@ Example:
   }
 ],
 ```
-5. Copy the contents of `eltritch-scheme.json` into the config file under `themes`.
+5. Copy the contents of `eldritch-theme.json` into the config file under `themes`.
 Example:
 ```json
 "themes":
